@@ -19,12 +19,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Finished Screenshot](./screenshot.png)
+![Finished Screenshot](https://github.com/jonahollis/frontendmentor/blob/main/qr-code-component-main/images/screenshot.png?raw=true)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Follow the link >> ](https://qr-code-component-main-hollis.netlify.app/)
 
 ## My process
 
