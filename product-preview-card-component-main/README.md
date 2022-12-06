@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Version](./desktop-version.png)
-![Mobile Version](./mobile-version.png)
+![Desktop Version](https://github.com/jonahollis/frontendmentor/blob/main/product-preview-card-component-main/images/desktop-version.png?raw=true)
+![Mobile Version](https://github.com/jonahollis/frontendmentor/blob/main/product-preview-card-component-main/images/mobile-version.png?raw=true)
 
 ### Links
 
