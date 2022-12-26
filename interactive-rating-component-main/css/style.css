@@ -92,6 +92,7 @@ body {
   padding-top: 0.2rem;
   cursor: pointer;
   transition: 0.2s;
+  color: hsl(217, 12%, 63%);
 }
 
 .main ul li button:hover {
