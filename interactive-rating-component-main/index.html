@@ -38,7 +38,7 @@
       <li><button class="btn">5</button></li>
     </ul>
 
-    <button class="btn-submit">
+    <button class="btn-submit" id="submit">
       Submit
     </button>
 
@@ -48,10 +48,14 @@
     <!-- Rating state end -->
 
     <!-- Thank you state start -->
-  <div class="thank-you">
+  <div class="thank-you hidden">
     <img src="./images/illustration-thank-you.svg" alt="">
-    <p>
-      You selected <!-- Add rating here --> out of 5
+    <p class="grey">
+      You selected 
+      <span id="rating">
+        5
+      </span> 
+      out of 5
     </p>
 
     <h2>Thank you!</h2>
@@ -60,7 +64,7 @@
       don’t hesitate to get in touch!
     </p>
 
-    <button class="btn-submit">Submit</button>
+    <button class="btn-submit" id="rate-again">Submit</button>
 
   </div>
 
@@ -76,6 +80,6 @@
 
 
 
-  
+  <script type="text/javascript" src="./js/main.js"></script>
   </body>
 </html>
